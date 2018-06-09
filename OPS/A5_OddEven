@@ -1,0 +1,9 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash OddEven.sh
+Enter a number: 
+45
+45 is Odd
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash OddEven.sh
+Enter a number: 
+-22
+-22 is Even
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ 

@@ -1,0 +1,205 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A4$ bash MathOps.sh
+
+_____________________CALCULATOR SIMULATOR______________________
+
+Integers
+
+
+
+1	Addition
+
+2	Subtraction
+
+3	Multiplication
+
+4	Division
+
+
+Floats
+
+
+
+5	Addition
+
+6	Subtraction
+
+7	Multiplication
+
+8	Division
+
+
+0	EXIT
+
+
+Please enter your choice: 
+1
+
+Enter first number: 
+5
+
+Enter Second number: 
+6
+
+SUM-> 11
+Enter 'y' to do another operation: 
+y
+_____________________CALCULATOR SIMULATOR______________________
+
+Integers
+
+
+
+1	Addition
+
+2	Subtraction
+
+3	Multiplication
+
+4	Division
+
+
+Floats
+
+
+
+5	Addition
+
+6	Subtraction
+
+7	Multiplication
+
+8	Division
+
+
+0	EXIT
+
+
+Please enter your choice: 
+4
+
+Enter first number: 
+18
+
+Enter Second number: 
+9
+
+QUOTIENT-> 2
+Enter 'y' to do another operation: 
+y
+_____________________CALCULATOR SIMULATOR______________________
+
+Integers
+
+
+
+1	Addition
+
+2	Subtraction
+
+3	Multiplication
+
+4	Division
+
+
+Floats
+
+
+
+5	Addition
+
+6	Subtraction
+
+7	Multiplication
+
+8	Division
+
+
+0	EXIT
+
+
+Please enter your choice: 
+6
+
+Enter first number: 
+2
+
+Enter Second number: 
+9.9
+
+DIFFERENCE-> -7.9
+Enter 'y' to do another operation: 
+y
+_____________________CALCULATOR SIMULATOR______________________
+
+Integers
+
+
+
+1	Addition
+
+2	Subtraction
+
+3	Multiplication
+
+4	Division
+
+
+Floats
+
+
+
+5	Addition
+
+6	Subtraction
+
+7	Multiplication
+
+8	Division
+
+
+0	EXIT
+
+
+Please enter your choice: 
+7
+
+Enter first number: 
+3.3
+
+Enter Second number: 
+9.786
+
+PRODUCT-> 32.2938
+Enter 'y' to do another operation: 
+n
+EXIT...
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A4$ bash Salary.sh
+Enter the daily salary
+2000
+No of days the employ was absent
+2
+DA is :- 22400
+HRA is  :- 11200
+Gross salary is :- 89600
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A4$ bash Swap.sh
+
+Please enter first number: 
+342
+
+Please enter second number
+233
+
+
+BEFORE SWAPPING
+
+n1 --> 342
+
+n2 --> 233
+
+
+AFTER SWAPPING
+
+n1 --> 233
+
+n2 --> 342
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A4$ 

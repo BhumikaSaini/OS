@@ -1,0 +1,86 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A9$ bash Palindrome.sh
+Enter a string: 
+malayalam
+"malayalam" is palindrome
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A9$ bash Palindrome.sh
+Enter a string: 
+maggi
+"maggi" is not palindrome
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A9$ bash strOps.sh
+________STRING OPERATIONS________
+1 ---> Compare 2 strings
+2 ---> Concatenate 2 strings
+3 ---> Find string length
+4 ---> Reverse a string
+0 ---> EXIT
+_________________________________
+Enter your choice: 
+1
+Enter first string: 
+hello
+Enter second string: 
+hello
+Strings equal !
+Enter 1 to choose another operation: 
+1    
+________STRING OPERATIONS________
+1 ---> Compare 2 strings
+2 ---> Concatenate 2 strings
+3 ---> Find string length
+4 ---> Reverse a string
+0 ---> EXIT
+_________________________________
+Enter your choice: 
+1
+Enter first string: 
+hello      
+Enter second string: 
+Hello
+Strings unequal !
+Enter 1 to choose another operation: 
+1
+________STRING OPERATIONS________
+1 ---> Compare 2 strings
+2 ---> Concatenate 2 strings
+3 ---> Find string length
+4 ---> Reverse a string
+0 ---> EXIT
+_________________________________
+Enter your choice: 
+2
+Enter first string: 
+hello
+Enter second string: 
+world
+Concatenated string ---> helloworld
+Enter 1 to choose another operation: 
+1
+________STRING OPERATIONS________
+1 ---> Compare 2 strings
+2 ---> Concatenate 2 strings
+3 ---> Find string length
+4 ---> Reverse a string
+0 ---> EXIT
+_________________________________
+Enter your choice: 
+3
+Enter a string: 
+hello world
+Length of "hello world" ---> 11
+Enter 1 to choose another operation: 
+1
+________STRING OPERATIONS________
+1 ---> Compare 2 strings
+2 ---> Concatenate 2 strings
+3 ---> Find string length
+4 ---> Reverse a string
+0 ---> EXIT
+_________________________________
+Enter your choice: 
+4
+Enter a string: 
+palindrome is not a palindrome
+Reversed string ---> emordnilap a ton si emordnilap
+Enter 1 to choose another operation: 
+0
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A9$ 

@@ -1,0 +1,42 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ bash Fibo.sh
+Enter limit for fibonacci series: 
+200
+The Fibonacci series is : 
+
+0 1 1 2 3 5 8 13 21 34 55 89 144 
+
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ bash GCD.sh
+Enter first number: 
+64
+Enter second number: 
+24
+GCD of 64 & 24 ---> 8
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ bash MathTable.sh
+Enter the number: 
+121
+121 X 1 = 121
+121 X 2 = 242
+121 X 3 = 363
+121 X 4 = 484
+121 X 5 = 605
+121 X 6 = 726
+121 X 7 = 847
+121 X 8 = 968
+121 X 9 = 1089
+121 X 10 = 1210
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ bash Power.sh
+To compute a^b
+Enter a: 
+5
+Enter b: 
+6
+Answer ---> 15625
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ bash Prime.sh
+Get prime numbers upto: 
+207
+2  3  5  7  11  13  17  19  23  29  31  37  41  43  47  53  59  61  67  71  73  79  83  89  97  101  103  107  109  113  127  131  137  139  149  151  157  163  167  173  179  181  191  193  197  199  
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ bash Reverse.sh
+Enter number to reverse: 
+-3209671
+Reversed number is ---> -1769023
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A6$ 

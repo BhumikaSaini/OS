@@ -1,0 +1,9 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LeapYr.sh
+Enter year: 
+1900
+1900 is not a leap year
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LeapYr.sh
+Enter year: 
+2016 
+2016 is a leap year
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ 

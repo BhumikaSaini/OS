@@ -1,0 +1,22 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A4$ bash Swap.sh
+
+Please enter first number: 
+342
+
+Please enter second number
+233
+
+
+BEFORE SWAPPING
+
+n1 --> 342
+
+n2 --> 233
+
+
+AFTER SWAPPING
+
+n1 --> 233
+
+n2 --> 342
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A4$ 

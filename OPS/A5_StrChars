@@ -1,0 +1,12 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash strChars.sh
+Enter the string: 
+Hello World from the other side !
+Word count ---> 7
+Character count ---> 33
+Space count ---> 6
+
+Enter chahracter to check for vowel/consonant: 
+G
+G is a consonant
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ 
+

@@ -1,0 +1,11 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash Bank.sh
+_______________CASH WITHDRAWL________________
+
+Enter balance amount: 
+10000
+Enter withdrawl amount: 
+1000
+Tax amount: 20.00
+Withdrawl amount: 1000
+Balance amount: 8980.00
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ 

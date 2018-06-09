@@ -1,0 +1,94 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A3$ bash FileOps.sh
+Enter name for new file : tempFile1
+
+New file created successfully. Enter content: 
+A lot of content was supposed to be here.
+But,
+humans are lazy creatures.
+so,
+lets not worry about it now... 
+A lot of content was supposed to be here.
+But,
+humans are lazy creatures.
+so,
+lets not worry about it now...
+______________________________________________________________
+
+
+File : 
+tempFile1
+
+File content : 
+A lot of content was supposed to be here.
+But,
+humans are lazy creatures.
+so,
+lets not worry about it now...
+A lot of content was supposed to be here.
+But,
+humans are lazy creatures.
+so,
+lets not worry about it now...
+
+Sorted file content : 
+A lot of content was supposed to be here.
+A lot of content was supposed to be here.
+But,
+But,
+humans are lazy creatures.
+humans are lazy creatures.
+lets not worry about it now...
+lets not worry about it now...
+so,
+so,
+
+File content in uppercase : 
+A LOT OF CONTENT WAS SUPPOSED TO BE HERE.
+BUT,
+HUMANS ARE LAZY CREATURES.
+SO,
+LETS NOT WORRY ABOUT IT NOW...
+A LOT OF CONTENT WAS SUPPOSED TO BE HERE.
+BUT,
+HUMANS ARE LAZY CREATURES.
+SO,
+LETS NOT WORRY ABOUT IT NOW...
+______________________________________________________________
+
+Enter no. of lines to read from start : 
+3
+A lot of content was supposed to be here.
+But,
+humans are lazy creatures.
+______________________________________________________________
+
+Enter key to search : 
+man
+Lines containing the entered key : 
+humans are lazy creatures.
+humans are lazy creatures.
+______________________________________________________________
+
+Rename this file to : 
+tempFile0
+______________________________________________________________
+
+Enter limits for cutting range : 
+3 6
+lot 
+t,
+mans
+,
+ts n
+lot 
+t,
+mans
+,
+ts n
+______________________________________________________________
+
+Name of file to delete : 
+tempFile0
+Deleted successfully
+______________________________________________________________
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A3$ 

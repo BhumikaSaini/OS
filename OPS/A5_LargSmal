@@ -1,0 +1,39 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LargSmal.sh
+Please enter 3 numbers: 
+34
+-22
+-67
+___________OPERATIONS___________
+
+
+	1 ---> Smallest number
+
+	2 ---> Greatest number
+
+________________________________
+
+
+Enter your choice: 
+1
+Smallest number ---> -67
+
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LargSmal.sh
+Please enter 3 numbers: 
+34
+-22
+-67
+___________OPERATIONS___________
+
+
+	1 ---> Smallest number
+
+	2 ---> Greatest number
+
+________________________________
+
+
+Enter your choice: 
+2
+Greatest number ---> 34
+
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$

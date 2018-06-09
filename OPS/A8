@@ -1,0 +1,50 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A8$ bash arrBinSrch.sh
+
+____________________________________
+
+	BINARY SEARCH
+
+____________________________________
+
+Enter array size: 
+5
+Enter array elements: 
+-9
+2
+7
+3
+1
+Array displayed at once by @= 
+-9 2 7 3 1
+Array displayed at once by *= 
+-9 2 7 3 1
+Array length  by @= 
+5
+Array length by *= 
+5
+Array elements in a range
+Enter limits: 1 3
+2 7 3
+Sorted array displayed at once by *= 
+-9 1 2 3 7
+Enter element to search: 
+5
+5 not found
+Enter strings array size: 
+5
+Enter array elements: 
+Hello
+world
+froll
+thell
+other ll
+Array displayed at once by @= 
+Hello world froll thell other ll
+Array length  by @= 
+5
+Enter substring to replace : 
+ll
+Enter replacement substring : 
+man
+Hemano world froman theman other man
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A8$ 

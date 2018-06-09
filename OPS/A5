@@ -1,0 +1,74 @@
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash Bank.sh
+_______________CASH WITHDRAWL________________
+
+Enter balance amount: 
+10000
+Enter withdrawl amount: 
+1000
+Tax amount: 20.00
+Withdrawl amount: 1000
+Balance amount: 8980.00
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LargSmal.sh
+Please enter 3 numbers: 
+34
+-22
+-67
+___________OPERATIONS___________
+
+
+	1 ---> Smallest number
+
+	2 ---> Greatest number
+
+________________________________
+
+
+Enter your choice: 
+1
+Smallest number ---> -67
+
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LargSmal.sh
+Please enter 3 numbers: 
+34
+-22
+-67
+___________OPERATIONS___________
+
+
+	1 ---> Smallest number
+
+	2 ---> Greatest number
+
+________________________________
+
+
+Enter your choice: 
+2
+Greatest number ---> 34
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LeapYr.sh
+Enter year: 
+1900
+1900 is not a leap year
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash LeapYr.sh
+Enter year: 
+2016 
+2016 is a leap year
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash OddEven.sh
+Enter a number: 
+45
+45 is Odd
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash OddEven.sh
+Enter a number: 
+-22
+-22 is Even
+bhumika@bhumikaAsus:~/Documents/OSAssgns/A5$ bash strChars.sh
+Enter the string: 
+Hello World from the other side !
+Word count ---> 7
+Character count ---> 33
+Space count ---> 6
+
+Enter chahracter to check for vowel/consonant: 
+G
+G is a consonant
+
